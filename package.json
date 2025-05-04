@@ -1,6 +1,6 @@
 {
   "name": "tailwind",
-  "homepage": "https://Momenzakii.github.io/Portfolio",
+  "homepage": "https://Momenzakii.github.io/my-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run bulid",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
